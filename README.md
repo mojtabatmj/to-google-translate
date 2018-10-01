@@ -30,3 +30,4 @@ Run in the root folder extension the command
 ```sh
 web-ext run
 ```
+nice
